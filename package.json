@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage":"https://raessafathulalim.github.io/reactjsph",
+  "homepage":"http://experiment.reactjs.ph",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
